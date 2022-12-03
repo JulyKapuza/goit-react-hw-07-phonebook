@@ -36,24 +36,21 @@ ul {
 
 .container {
   margin-top: 50px;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
   color: #6a79a6;
-  width: 1200px;
+  width: 600px;
   margin-left: auto;
   margin-right: auto;
   padding: 15px;
 }
 
 .title {
+  margin-bottom: 20px;
   text-transform: uppercase;
   font-size: 25px;
   text-align: center;
-  transform: rotate(270deg);
 }
 
 .subtitle {
+  margin-bottom: 20px;
   text-align: center;
-  transform: rotate(270deg);
 }
